@@ -4,3 +4,7 @@ function toggleMenu() {
     menu.classList.toggle("open");
     icon.classList.toggle("open");
   }
+
+function displayContactInfo() {
+  alert("Contact Info: \nEmail: gpvns24@gmail.com \nPhone: 9334703914");
+}
